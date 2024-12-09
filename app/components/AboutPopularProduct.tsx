@@ -32,7 +32,7 @@ const AboutPopularProduct = () => {
         </div>
         <div className="text-center">
           <Image
-            src="/parent.png"
+            src="/Parent.png"
             alt="3"
             width={305}
             height={375}

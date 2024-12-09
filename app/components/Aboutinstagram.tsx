@@ -74,7 +74,7 @@ const Instagram = () => {
           </div>
           <div className="aspect-square relative overflow-hidden rounded-lg">
             <Image
-              src="/Card.png"
+              src="/card.png"
               alt="Instagram product 6"
               width={140}
               height={140}
