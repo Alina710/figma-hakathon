@@ -14,7 +14,7 @@ const AboutPopularProduct = () => {
             alt="1"
             width={590}
             height={375}
-            className="object-cover mx-auto"
+            className="object-cover mx-auto"  
           />
           <p className="pt-5 text-[20px] font-normal text-left text-gray-800 ">The Poplar Suede Sofa</p>
           <p className="pt-2 text-[18px] font-normal mb-32 text-left text-gray-800">$99.00</p>
