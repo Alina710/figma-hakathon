@@ -2,15 +2,12 @@
   "name": "main-hakhathon",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "migrate": "node script/migrate.mjs" 
-
-
+    "migrate": "node scripts/migrate.mjs"
   },
   "dependencies": {
     "@sanity/client": "^6.27.2",
@@ -29,7 +26,7 @@
     "tailwind-merge": "^2.5.5"
   },
   "devDependencies": {
-    "@types/node": "^20",
+    "@types/node": "^20.17.17",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",

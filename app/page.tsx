@@ -5,6 +5,7 @@ import LogoGrid from "./components/LogoGrid";
 import TopCategory from "./components/TopCategory";
 import FeaturedProducts from "./components/FeaturedProducts";
 import HotCategory from "./components/HotCategory";
+import ProductCards from './products/page';
 
 
 const page = () => {
@@ -16,6 +17,7 @@ const page = () => {
        <TopCategory />
        <HotCategory />
        <ProductsPage />
+       <ProductCards />
        
     </div>
   )
